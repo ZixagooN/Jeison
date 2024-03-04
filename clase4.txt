@@ -3,3 +3,5 @@ git rm borrar
 git mv renombrar
 git diff ver cambios 
 git log historial de cambios
+git checkout cambiar de rama
+ branch crear rama
