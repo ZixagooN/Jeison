@@ -7,4 +7,4 @@ git checkout cambiar de rama
  git branch crear rama
  git merge funcionar el contenido de las ramas
  fork: copiar un repositorio y trabajar sobre el a nuestra forma
- a
+ aa
